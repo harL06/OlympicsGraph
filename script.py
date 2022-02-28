@@ -121,7 +121,7 @@ save = input("Would you like to save this graph to pdf?\n(Y\\N)\n> ")
 if save.lower() == "y":
     filename = input("Please enter the name for your file:\n> ")
     f.savefig(filename + ".pdf", bbox_inches='tight')
-elif lower(save) == "n":
+elif save.lower() == "n":
     print("Shrimp")
 else:
     print("Invalid Input - Graph not saved")
