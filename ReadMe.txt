@@ -13,3 +13,4 @@ Brief:
 It seperates each country's medals into a dictionary, ranks each country based on its amount of medals in total.
 The top ranking countries are displayed on a bar chart which is broken into Gold, Silver and Bronze.
 
+This is one of my earlier projects and is quite simple, but it shows my ability to work with very large datasets (over 30,000 rows) and display them in an easy to read way.
