@@ -1,4 +1,4 @@
-Designed as part of a computer science project in secondary school.
+Designed as one of my first computer science projects in secondary school.
 
 Brief:
       Attached below are two CSV files. Dictionary contains the names of all the countries represented in the Summer Olympics from 1986 - 2012. Summer.csv contains the names of the winner, the sports they won in and the medals they won.
