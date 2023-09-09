@@ -1,4 +1,4 @@
-Designed as part of a computer science project.
+Designed as part of a computer science project in secondary school.
 
 Brief:
       Attached below are two CSV files. Dictionary contains the names of all the countries represented in the Summer Olympics from 1986 - 2012. Summer.csv contains the names of the winner, the sports they won in and the medals they won.
@@ -13,4 +13,3 @@ Brief:
 It seperates each country's medals into a dictionary, ranks each country based on its amount of medals in total.
 The top ranking countries are displayed on a bar chart which is broken into Gold, Silver and Bronze.
 
-Could probably add a few more features such as graphing something against the second graph. Possibly graphing the country's GDP against their total medals.
